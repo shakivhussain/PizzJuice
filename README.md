@@ -1,4 +1,6 @@
 
+<img src="./assets/screenshot.jpg" alt="PizzJuice" title="PizzJuice" >
+
 ## Built With 🛠
 
 - **Kotlin** 🦸
@@ -23,7 +25,6 @@ And more! ✨
 
 This project follows the famous Clean architecture and best practices from Google's
 [GithubBrowserSample](https://github.com/android/architecture-components-samples/tree/master/GithubBrowserSample)
-
 
 ## Permissions 💻
 - Internet
