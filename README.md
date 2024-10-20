@@ -7,6 +7,7 @@
 - **Clean Architecture** 🏗️
 - **Hilt Dependency Injection** 🔌
 - **Coroutines** ⏳
+- **SOLID**
 
 ### Additional Technologies
 
