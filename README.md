@@ -1,4 +1,7 @@
 
+## Download 📥
+- Download latest APK from [Click Here](https://drive.google.com/file/d/1OSb1bPa01AmlZRKnzQ5um2mzekBUcxJH/view?usp=sharing)
+
 <img src="./assets/screenshot.jpg" alt="PizzJuice" title="PizzJuice" >
 
 ## Built With 🛠
@@ -20,6 +23,9 @@
 - **Glide** 📱
 
 And more! ✨
+
+
+
 
 ## Architecture 🗼
 
