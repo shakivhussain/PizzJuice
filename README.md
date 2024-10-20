@@ -13,7 +13,6 @@
 
 - **Android Jetpack Components** 📦
 - **Flow** 🌊
-- **Paging 3** 📄
 - **Navigation Component** 🧭
 - **Data Binding** 🔗
 - **Retrofit** 🔄
